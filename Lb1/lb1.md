@@ -56,7 +56,7 @@ polluting-rate - забруднення, яке виділяє кожна еле
 | 0.07          | 1665                          |
 | 0.1           | not_finished (people not die) |
 
-![planting_rate](C:\Users\D-D-E\Desktop\New folder\simulation_lab\Lb1\planting_rate.png)
+![planting_rate](https://github.com/D-D-E/simulation_lab/blob/master/Lb1/planting_rate.png)
 
 Це наглядно показує, що час існування людей залежить від шансу висадки дерев, і повне виживання можливе лише при коефіцієнтах 0,09-0,1.
 
@@ -72,4 +72,4 @@ polluting-rate - забруднення, яке виділяє кожна еле
 | 5                       | 440           |
 | 0                       | 594           |
 
-![power-plants](C:\Users\D-D-E\Desktop\New folder\simulation_lab\Lb1\power-plants.png)
+![power-plants](https://github.com/D-D-E/simulation_lab/blob/master/Lb1/power-plants.png)
