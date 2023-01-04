@@ -74,7 +74,7 @@ polluting-rate - забруднення, яке виділяє кожна еле
 
 ![power-plants](https://github.com/D-D-E/simulation_lab/blob/master/Lb1/power-plants.png)
 
-##### 2. Вплив начальної кількості людей на тривалість існування людей:
+##### 3. Вплив начальної кількості людей на тривалість існування людей:
 
 Проведенно 5 експериментів, при initial-population від 10 до 90.
 
@@ -85,5 +85,7 @@ polluting-rate - забруднення, яке виділяє кожна еле
 | 50                      | 753           |
 | 70                      | 1536          |
 | 90                      | not finished  |
+
+![peolple](https://github.com/D-D-E/simulation_lab/blob/master/Lb1/people.jpg)
 
 
